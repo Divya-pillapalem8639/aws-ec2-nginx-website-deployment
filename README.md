@@ -35,7 +35,7 @@ sudo apt upgrade -y
 sudo apt install nginx -y
 sudo systemctl status nginx
 sudo systemctl restart nginx
-
+```
 
 ## Project screenshots
 
@@ -53,5 +53,3 @@ Successfully deployed a production-style static website on AWS EC2 using Nginx a
 
 **Divya**
 AWS and DevOps portfolio project
-
-
