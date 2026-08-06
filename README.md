@@ -7,7 +7,7 @@ This project demonstrates the deployment of a static portfolio website on an AWS
 The project simulates a real-world web server deployment that is commonly performed by cloud and DevOps engineers.
 
 ## Architecture
-
+![Architecture.png](screenshots/ec2-instance.png)
 ## AWS services used
 
 * Amazon EC2
