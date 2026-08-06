@@ -8,23 +8,6 @@ The project simulates a real-world web server deployment that is commonly perfor
 
 ## Architecture
 
-Client Browser
-|
-v
-Internet
-|
-v
-AWS Security Group
-|
-v
-EC2 Ubuntu Instance
-|
-v
-Nginx Web Server
-|
-v
-Portfolio Website
-
 ## AWS services used
 
 * Amazon EC2
