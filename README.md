@@ -123,6 +123,7 @@ aws-ec2-nginx-website-deployment/
 
 
 ### SSH connection
+![SSH connection](screenshorts/ssh-terminal.png)
 
 
 ### Nginx service status
