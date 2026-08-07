@@ -115,29 +115,23 @@ aws-ec2-nginx-website-deployment/
 ## Project screenshots
 
 ### EC2 instance
-![EC2 Instance](screenshots/Ec2-instance.png)
+![EC2 Instance](screenshorts/Ec2-instance.png)
 
 ### Security group configuration
-<p align="center">
-  <img src="security-group.png" alt="Security-Groups" width="900">
-</p>
+![Security Groups](screenshorts/security-group.png)
+
 
 
 ### SSH connection
-<p align="center">
-  <img src="ssh-terminal.png" alt="SSH Terminal" width="900">
-</p>
+
 
 ### Nginx service status
-<p align="center">
-  <img src="nginx-status.png" alt="Nginx-status" width="900">
-</p>
+![Nginx service status](screenshorts/nginx-status.png)
+
 
 
 ### Portfolio website
-<p align="center">
-  <img src="portfolio-website.png" alt="Portfolio Website" width="900">
-</p>
+![portfolio website](screenshorts/portfolio-website.png)
 
 
 ## Learning outcomes
