@@ -115,10 +115,7 @@ aws-ec2-nginx-website-deployment/
 ## Project screenshots
 
 ### EC2 instance
-<p align="center">
-  <img src="Ec2-instance.png" alt="Ec2 Instance" width="900">
-</p>
-
+![EC2 Instance](screenshots/Ec2-instance.png)
 
 ### Security group configuration
 <p align="center">
